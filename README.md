@@ -6,13 +6,7 @@
 
 <br clear="both">
 
-<h4 align="left">Me presento, me llamo brayham pavon martell y soy de mexico.<br>Actualmente soy estudiante de ingenieria en sistemas computacionales y tecnico en electronica</h4>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Soy apacionado por aprender nuevas tecnologias y me encanta participar en proyectos de toda indole</h4>
+<h4 align="left">Me presento, me llamo brayham pavon martell y soy de mexico.<br>Actualmente soy estudiante de ingenieria en sistemas computacionales y tecnico en electronica.<br>Soy apacionado por aprender nuevas tecnologias y me encanta participar en proyectos de toda indole.</h4>
 
 ###
 
