@@ -1,5 +1,5 @@
 <h1 align="center"> Me presento, me llamo Brayham Pavon Martell</h1>
-<h1>BPM</h1>
+<h1 aling="center">BPM</h1>
 <h3 align="center">Programador Jr. </h3>
 <h3 align="center">Apasionado por aprender nuevas tecnologías e iniciar nuevos proyectos. </h3>
 <h3 align="center">Estudiante del Instituto tecnológico de Toluca.</h3>
