@@ -69,21 +69,5 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/>
-  <img src="https://docs.anaconda.com/_static/Anaconda_Icon.png" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" height="40"/>
 </p>
 
----
-
-## 📌 Proyectos Destacados
-- 🔧 [Sistema de inventario con Laravel y MySQL](#) *(agrega link real si está disponible)*
-- 📱 [App móvil en Flutter para gestión de tareas](#)
-- 🌐 [Croquis interactivo para el Instituto Tecnológico de Toluca](#)
-- 🐳 [Microservicios con Docker y Angular](#)
-
----
-
-## 🧪 Actualmente aprendiendo
-- 🧩 Arquitectura de microservicios
-- 🔐 Seguridad en aplicaciones web (JWT, OAuth)
-- ⚙️ Automatización de despliegues con Docker Compose
