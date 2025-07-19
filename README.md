@@ -1,50 +1,89 @@
-<h1 align="center"> Me presento, me llamo Brayham Pavon Martell</h1>
-<h1 align="center"> BPM</h1>
-<h3 align="center">Programador Jr. </h3>
-<h3 align="center">Apasionado por aprender nuevas tecnologías e iniciar nuevos proyectos. </h3>
-<h3 align="center">Estudiante del Instituto tecnológico de Toluca.</h3>
+<h1 align="center">👋 ¡Hola! Soy Brayham Pavón Martell</h1>
+<h2 align="center">💻 Desarrollador Jr. - Entusiasta de Linux y Open Source</h2>
 
-- 📫 **pmbrian@hotmail.com**
+<h3 align="center">🎓 Estudiante del Instituto Tecnológico de Toluca</h3>
+<h4 align="center">📘 Apasionado por aprender nuevas tecnologías, resolver problemas reales e iniciar proyectos creativos</h4>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 Sobre mí
+- 👨‍💻 Me encanta trabajar con tecnologías web, móviles y backend.
+- 🧠 Siempre busco aprender algo nuevo: desde sistemas embebidos hasta contenedores Docker.
+- 🐧 Usuario y fan de **Arch Linux**.
+- 📫 Contacto: **pmbrian@hotmail.com**
+
+---
+
+## 🌐 Conecta conmigo
 <p align="left">
-<a href="https://www.linkedin.com/in/brayham-pav%C3%B3n-martell-183a5b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brayham pavón martell" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/brayham-pav%C3%B3n-martell-183a5b28a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+---
+
+## 🧠 Tecnologías que manejo
+
+### 🧾 Lenguajes
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
 </p>
-<h3 align="left">Database:</h3>
+
+### 🗃️ Bases de Datos
 <p align="left">
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sqlite" width="40" height="40"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="oracle" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
-<h3 align="left">Frameworks:</h3>
-<p align="left"> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
-    <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">SO:</h3>
+
+### 🧰 Frameworks y Librerías
 <p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/es-mx/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/888/888882.png" alt="windows" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
 </p>
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a> 
-    <a href="https://docs.anaconda.com/miniconda/" target="_blank" rel="noreferrer"> <img src="https://docs.anaconda.com/_static/Anaconda_Icon.png" alt="miniconda" width="40" height="40"/> </a> 
-    <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" width="40" height="40"/> </a> 
+
+### 🐳 Contenedores y DevOps
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
+
+### 💻 Sistemas Operativos
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn-icons-png.freepik.com/256/888/888882.png" width="40" height="40"/>
+</p>
+
+### 🛠 Herramientas
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/>
+  <img src="https://docs.anaconda.com/_static/Anaconda_Icon.png" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+- 🔧 [Sistema de inventario con Laravel y MySQL](#) *(agrega link real si está disponible)*
+- 📱 [App móvil en Flutter para gestión de tareas](#)
+- 🌐 [Croquis interactivo para el Instituto Tecnológico de Toluca](#)
+- 🐳 [Microservicios con Docker y Angular](#)
+
+---
+
+## 🧪 Actualmente aprendiendo
+- 🧩 Arquitectura de microservicios
+- 🔐 Seguridad en aplicaciones web (JWT, OAuth)
+- ⚙️ Automatización de despliegues con Docker Compose
