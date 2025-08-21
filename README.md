@@ -1,13 +1,13 @@
 <h1 align="center">👋 ¡Hola! Soy Brayham Pavón Martell</h1>
 <h2 align="center">💻 Desarrollador Jr. - Entusiasta de Linux y Open Source</h2>
 
-<h3 align="center">🎓 Estudiante del Instituto Tecnológico de Toluca</h3>
+<h3 align="center"> Ing en sistemas computacionales</h3>
 <h4 align="center">📘 Apasionado por aprender nuevas tecnologías, resolver problemas reales e iniciar proyectos creativos</h4>
 
 ---
 
 ## 🚀 Sobre mí
-- 👨‍💻 Me encanta trabajar con tecnologías web, móviles y backend.
+- 👨‍💻 Me encanta trabajar con tecnologías web, móviles y algritmos.
 - 🧠 Siempre busco aprender algo nuevo: desde sistemas embebidos hasta contenedores Docker.
 - 🐧 Usuario y fan de **Arch Linux**.
 - 📫 Contacto: **pmbrian@hotmail.com**
