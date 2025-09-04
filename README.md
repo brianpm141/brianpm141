@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Tecnologías que manejo
+## 🧠 Tecnologías que Conozco 
 
 ### 🧾 Lenguajes
 <p align="left">
