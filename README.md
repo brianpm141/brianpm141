@@ -9,7 +9,7 @@
 # Visita mi portafolio
 
 <a href= "https://bp-mportfolio.vercel.app/" target="_blank">
-  <h2> BPM Software <h2/>
+  BPM Software 
 <a/>
 
 ## 🚀 Sobre mí
