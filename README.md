@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 - 👨‍💻 Me encanta trabajar con tecnologías web, móviles y algritmos.
-- 🧠 Siempre busco aprender algo nuevo: desde sistemas embebidos hasta contenedores Docker.
+- 🧠 Siempre busco aprender algo nuevo y todo desafio para mi es interesante
 - 🐧 Usuario y fan de **Arch Linux**.
 - 📫 Contacto: **bpavonmartell@hotmail.com**
 
