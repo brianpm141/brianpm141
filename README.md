@@ -6,17 +6,23 @@
 
 ---
 
+# Visita mi portafolio
+
+<a href= "https://bp-mportfolio.vercel.app/" target="_blank">
+  <h2> BPM Software <h2/>
+<a/>
+
 ## 🚀 Sobre mí
 - 👨‍💻 Me encanta trabajar con tecnologías web, móviles y algritmos.
 - 🧠 Siempre busco aprender algo nuevo: desde sistemas embebidos hasta contenedores Docker.
 - 🐧 Usuario y fan de **Arch Linux**.
-- 📫 Contacto: **pmbrian@hotmail.com**
+- 📫 Contacto: **bpavonmartell@hotmail.com**
 
 ---
 
 ## 🌐 Conecta conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/brayham-pav%C3%B3n-martell-183a5b28a/" target="_blank">
+  <a href="https://www.linkedin.com/in/bpmartell/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
