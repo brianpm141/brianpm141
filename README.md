@@ -29,7 +29,7 @@ Soy un Ingeniero apasionado por el **Open Source** y la eficiencia. Mi enfoque p
 
 - 🧠 Siempre aprendiendo: Actualmente profundizando en **Node.js, React y Arquitectura de Software**.
 - ⚡ Dato curioso: Disfruto automatizando tareas repetitivas con Python para ahorrar horas de trabajo manual.
-- - 📱 Alto interés en aplicaciones móviles y empezando en este mundo 🚀.
+- 📱 Mucho interés en aplicaciones móviles y empezando en este mundo 🚀.
 
 ---
 
