@@ -39,7 +39,7 @@ Soy un Ingeniero apasionado por el **Open Source** y la eficiencia. Mi enfoque p
 
 | **Frontend & Mobile** | **Backend & Database** | **DevOps & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,flutter,dart" width="300" /> | <img src="https://skillicons.dev/icons?i=python,java,nodejs,php,laravel,mysql,sqlite,mongo,firebase" width="300" /> | <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,figma,arduino" width="300" /> |
+| <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,flutter,dart" width="300" /> | <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,sqlite" width="300" /> | <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,figma,arduino" width="300" /> |
 
 </div>
 
