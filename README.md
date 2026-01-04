@@ -1,79 +1,53 @@
-<h1 align="center">👋 ¡Hola! Soy Brayham Pavón Martell</h1>
-<h2 align="center">💻 Desarrollador Jr. - Entusiasta de Linux y Open Source</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <h1>¡Hola! Soy Brayham Pavón Martell 👋</h1>
+  
+  <h3>🚀 Ingeniero de Sistemas | Full Stack Developer | Linux Enthusiast</h3>
+  
+  <p>
+    <em>"Transformando problemas reales en soluciones de software eficientes y de alto impacto."</em>
+  </p>
 
-<h3 align="center"> Ing en sistemas computacionales</h3>
-<h4 align="center">📘 Apasionado por aprender nuevas tecnologías, resolver problemas reales e iniciar proyectos creativos</h4>
-
----
-
-# Visita mi portafolio
-
-<a href= "https://bp-mportfolio.vercel.app/" target="_blank">
-  BPM Software 
-<a/>
-
-## 🚀 Sobre mí
-- 👨‍💻 Me encanta trabajar con tecnologías web, móviles y algritmos.
-- 🧠 Siempre busco aprender algo nuevo y todo desafio para mi es interesante
-- 🐧 Usuario y fan de **Arch Linux**.
-- 📫 Contacto: **bpavonmartell@hotmail.com**
-
----
-
-## 🌐 Conecta conmigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/bpmartell/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
+  <p>
+    <a href="https://www.bpmartell.com/" target="_blank">
+      <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/bpmartell/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bpavonmartell@hotmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🧠 Tecnologías que Conozco 
+### 👨‍💻 Sobre mí
 
-### 🧾 Lenguajes
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</p>
+Soy un Ingeniero apasionado por el **Open Source** y la eficiencia. Mi enfoque principal es diseñar arquitecturas que no solo funcionen, sino que optimicen la experiencia del usuario final.
 
-### 🗃️ Bases de Datos
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
+- 🧠 Siempre aprendiendo: Actualmente profundizando en **Node.js, React y Arquitectura de Software**.
+- ⚡ Dato curioso: Disfruto automatizando tareas repetitivas con Python para ahorrar horas de trabajo manual.
+- - 📱 Alto interés en aplicaciones móviles y empezando en este mundo 🚀.
 
-### 🧰 Frameworks y Librerías
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
-</p>
+---
 
-### 🐳 Contenedores y DevOps
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</p>
+### 🛠️ Tech Stack & Herramientas
 
-### 💻 Sistemas Operativos
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn-icons-png.freepik.com/256/888/888882.png" width="40" height="40"/>
-</p>
+<div align="center">
 
-### 🛠 Herramientas
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40"/>
-</p>
+| **Frontend & Mobile** | **Backend & Database** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,flutter,dart" width="300" /> | <img src="https://skillicons.dev/icons?i=python,java,nodejs,php,laravel,mysql,sqlite,mongo,firebase" width="300" /> | <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,figma,arduino" width="300" /> |
 
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brianpm141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpm141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+</div>
