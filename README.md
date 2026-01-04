@@ -45,11 +45,10 @@ Soy un Ingeniero apasionado por el **Open Source** y la eficiencia. Mi enfoque p
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Logros en GitHub
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=brianpm141&show_icons=true&theme=midnight-purple&hide_border=true" alt="Estadísticas de Brian" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpm141&layout=compact&theme=midnight-purple&hide_border=true" alt="Lenguajes más usados" height="180"/>
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=brianpm141&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true" alt="trophy" />
+  </a>
 </div>
